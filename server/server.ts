@@ -124,9 +124,15 @@ export class PHL342Server {
         });
     }
 
+    // public listen(callback: (port: number) => void): void {
+    //     this.httpServer.listen(this.DEFAULT_PORT, () => {
+    //         callback(this.DEFAULT_PORT);
+    //     });
+    // }
+
     public listen(callback: (port: number) => void): void {
-        this.httpServer.listen(this.DEFAULT_PORT, () => {
-            callback(this.DEFAULT_PORT);
-        });
+        this.httpServer.listen(process.env.PORT || this.DEFAULT_PORT, () =>
+            callback(Number(process.env.PORT))
+        );
     }
 }
