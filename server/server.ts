@@ -22,6 +22,7 @@ export class PHL342Server {
         });
 
         this.httpServer = require('http').createServer(this.app);
+        this.app.use('/favicon.ico', express.static('img/favicon.ico'));
         this.app.use(express.static(path.join(__dirname, '../build')));
         this.configureRoutes();
         this.user = new User();
@@ -29,9 +30,7 @@ export class PHL342Server {
     }
 
     private configureRoutes(): void {
-        // this.app.get('/', function (req, res) {
-        //     res.json(`server.ts for phl342 server`);
-        // });
+
         this.app.get('/', (req, res) => {
             res.sendFile(path.join(__dirname, '../build', 'index.html'));
         });
