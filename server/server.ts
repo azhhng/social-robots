@@ -15,7 +15,7 @@ export class PHL342Server {
         this.app.use(express.json());
 
         this.app.use(function (req, res, next) {
-            res.setHeader('Access-Control-Allow-Origin', 'http://localhost:3000');
+            res.setHeader('Access-Control-Allow-Origin', 'https://social-robots.herokuapp.com/');
             res.setHeader('Access-Control-Allow-Methods', 'GET,POST,PUT,DELETE,OPTIONS');
             res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Access-Control-Allow-Headers');
             next();
@@ -26,10 +26,10 @@ export class PHL342Server {
         this.app.use(express.static(path.join(__dirname, '../build')));
         this.configureRoutes();
         this.user = new User();
-
     }
 
     private configureRoutes(): void {
+        // handling routing
 
         this.app.get('/', (req, res) => {
             res.sendFile(path.join(__dirname, '../build', 'index.html'));
@@ -79,7 +79,7 @@ export class PHL342Server {
             res.sendFile(path.join(__dirname, '../build', 'index.html'));
         });
 
-        // ========================================
+        // api routes
 
         this.app.post('/set-name', (req, res) => {
             this.user.setName(req.body.name);
@@ -123,12 +123,6 @@ export class PHL342Server {
             });
         });
     }
-
-    // public listen(callback: (port: number) => void): void {
-    //     this.httpServer.listen(this.DEFAULT_PORT, () => {
-    //         callback(this.DEFAULT_PORT);
-    //     });
-    // }
 
     public listen(callback: (port: number) => void): void {
         this.httpServer.listen(process.env.PORT || this.DEFAULT_PORT, () =>

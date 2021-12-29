@@ -42,7 +42,6 @@ export class User {
     }
 
     async advanceCheckpoint(): Promise<string> {
-        // get book activity
         this.checkpoint += 1;
         return "checkpoint advanced";
     }

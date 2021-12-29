@@ -22,7 +22,6 @@ export class Robot {
     }
 
     async setAppearance(e: string, b: string, a: string, l: string): Promise<string> {
-        // get book activity
         this.eyes = e;
         this.body = b;
         this.arms = a;
