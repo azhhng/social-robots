@@ -29,57 +29,6 @@ export class PHL342Server {
     }
 
     private configureRoutes(): void {
-        // handling routing
-
-        this.app.get('/', (req, res) => {
-            res.sendFile(path.join(__dirname, '../build', 'index.html'));
-        });
-
-        this.app.get('/factory-entrance', (req, res) => {
-            res.sendFile(path.join(__dirname, '../build', 'index.html'));
-        });
-
-        this.app.get('/robot-factory', (req, res) => {
-            res.sendFile(path.join(__dirname, '../build', 'index.html'));
-        });
-
-        this.app.get('/orientation', (req, res) => {
-            res.sendFile(path.join(__dirname, '../build', 'index.html'));
-        });
-
-        this.app.get('/robot-union', (req, res) => {
-            res.sendFile(path.join(__dirname, '../build', 'index.html'));
-        });
-
-        this.app.get('/developer-office', (req, res) => {
-            res.sendFile(path.join(__dirname, '../build', 'index.html'));
-        });
-
-        this.app.get('/ending1', (req, res) => {
-            res.sendFile(path.join(__dirname, '../build', 'index.html'));
-        });
-
-
-        this.app.get('/ending1A', (req, res) => {
-            res.sendFile(path.join(__dirname, '../build', 'index.html'));
-        });
-
-
-        this.app.get('/ending2', (req, res) => {
-            res.sendFile(path.join(__dirname, '../build', 'index.html'));
-        });
-
-
-        this.app.get('/about', (req, res) => {
-            res.sendFile(path.join(__dirname, '../build', 'index.html'));
-        });
-
-
-        this.app.get('/references', (req, res) => {
-            res.sendFile(path.join(__dirname, '../build', 'index.html'));
-        });
-
-        // api routes
 
         this.app.post('/set-name', (req, res) => {
             this.user.setName(req.body.name);
@@ -121,6 +70,10 @@ export class PHL342Server {
             this.user.setCheckpoint(req.body.checkpoint).then((message) => {
                 res.json(message);
             });
+        });
+
+        this.app.get('*', (req, res) => {
+            res.sendFile(path.join(__dirname, '../build', 'index.html'));
         });
     }
 
