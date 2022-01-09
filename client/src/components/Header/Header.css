@@ -1,0 +1,24 @@
+  /* ===== Header CSS ===== */
+
+  .header-container {
+      margin-top: 80px;
+  }
+
+  .header-container>h1 {
+      text-align: center;
+      cursor: pointer;
+  }
+
+  .header-container>h2 {
+      text-align: center;
+      color: #fff;
+  }
+
+  .header-container>h2>a {
+      color: #fff;
+      text-decoration: none;
+  }
+
+  .header-container>h2>a:hover {
+      color: #F0280F;
+  }

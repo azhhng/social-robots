@@ -1,0 +1,159 @@
+{
+    "response": null,
+    "text": "> Hey there, you must be our new software engineer! I'm Slash, Ash for short. Make sure the cursor is blinking, if not, click on this message, and press enter to start your journey...",
+    "speaker": "Slash",
+    "responses": 1,
+    "children": [
+        {
+            "response": "enter",
+            "text": "> Wow, you're really good at that...which is great since that's basically all you need to do to work here. Just keep pressing enter!",
+            "speaker": "Slash",
+            "responses": 1,
+            "children": [
+                {
+                    "response": "enter",
+                    "text": "> Please read these instructions carefully before we proceed with your orientation.",
+                    "speaker": "Slash",
+                    "responses": 1,
+                    "children": [
+                        {
+                            "response": "enter",
+                            "text": "> Please read each line of dialogue carefully before pressing enter since you may miss some things if enter is spammed. Always refrain from spamming the enter key.",
+                            "speaker": "Slash",
+                            "responses": 1,
+                            "children": [
+                                {
+                                    "response": "enter",
+                                    "text": "> I highly advice you use Google Chrome as your browser since that is what was used for testing and development of this website.",
+                                    "speaker": "Slash",
+                                    "responses": 1,
+                                    "children": [
+                                        {
+                                            "response": "enter",
+                                            "text": "> Play through the game in one sitting. It takes on average 20 minutes. There are 3 endings you may get.",
+                                            "speaker": "Slash",
+                                            "responses": 1,
+                                            "children": [
+                                                {
+                                                    "response": "enter",
+                                                    "text": "> If you run into any issues, please feel free to email Ming Zhang, you can find her email in the About section.",
+                                                    "speaker": "Slash",
+                                                    "responses": 1,
+                                                    "children": [
+                                                        {
+                                                            "response": "enter",
+                                                            "text": "> If you want to replay the game, press the Restart Game button on the Homepage.",
+                                                            "speaker": "Slash",
+                                                            "responses": 1,
+                                                            "children": [
+                                                                {
+                                                                    "response": "enter",
+                                                                    "text": "> Well I have to say goodbye now. But don't worry, I'm leaving you in good hands.",
+                                                                    "speaker": "Slash",
+                                                                    "responses": 1,
+                                                                    "children": [
+                                                                        {
+                                                                            "response": "enter",
+                                                                            "text": "> Hi! I'm Bear. I'm the intern manager that will be working with you. You must be intern_name.",
+                                                                            "speaker": "Bear",
+                                                                            "responses": 1,
+                                                                            "children": [
+                                                                                {
+                                                                                    "response": "enter",
+                                                                                    "text": "> Oh no... it looks like the system's lost your name. Do you mind telling me what it is again?",
+                                                                                    "speaker": "Bear",
+                                                                                    "responses": 1,
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "response": "input",
+                                                                                            "variable_name": "player_name",
+                                                                                            "text": "> Okay player_name! What a great name you have. Probably the best name I've ever heard.",
+                                                                                            "speaker": "Bear",
+                                                                                            "responses": 1,
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "response": "enter",
+                                                                                                    "text": "> Let me give you a rundown of what your job will be here at Donahue Upton Morgan Collegiate, which I will hearby refer to as DUM.",
+                                                                                                    "speaker": "Bear",
+                                                                                                    "responses": 1,
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "response": "enter",
+                                                                                                            "text": "> DUM is one of the most elite private schools in the whole country! Our main attraction is our social robots.",
+                                                                                                            "speaker": "Bear",
+                                                                                                            "responses": 1,
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "response": "enter",
+                                                                                                                    "text": "> We hired you since you're going to be in charge of creating one yourself.",
+                                                                                                                    "speaker": "Bear",
+                                                                                                                    "responses": 1,
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "response": "enter",
+                                                                                                                            "text": "> You see player_name, DUM is a very, very prestigious school where parents drop off their kids for long periods of time while they work.",
+                                                                                                                            "speaker": "Bear",
+                                                                                                                            "responses": 1,
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "response": "enter",
+                                                                                                                                    "text": "> Your robot is going to help kids fulfill their family social needs.",
+                                                                                                                                    "speaker": "Bear",
+                                                                                                                                    "responses": 1,
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "response": "enter",
+                                                                                                                                            "text": "> We'll let you pick how your robot looks and what it's called.",
+                                                                                                                                            "speaker": "Bear",
+                                                                                                                                            "responses": 1,
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "response": "enter",
+                                                                                                                                                    "text": "> I'm going to take you to our factory and introduce you to Jaggs, they'll help you out with all your robot stuff.",
+                                                                                                                                                    "speaker": "Bear",
+                                                                                                                                                    "responses": 1,
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "response": "travel",
+                                                                                                                                                            "location": "/factory-entrance",
+                                                                                                                                                            "responses": 1,
+                                                                                                                                                            "children": []
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

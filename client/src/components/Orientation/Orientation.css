@@ -1,0 +1,32 @@
+.orientation-container>.dialogue-box>button {
+    color: #ffffff;
+    background-color: #1b489c;
+    box-shadow: 0 2px 2px 2px rgba(0, 0, 0, 0.151);
+    margin-left: 10px;
+    float: right;
+    height: 30px;
+}
+
+.orientation-container>.dialogue-box>button:hover {
+    background-color: #17356e;
+}
+
+.orientation-container>.bear-robot {
+    position: absolute;
+    margin-left: -590px;
+    top: 24%;
+    left: 50%;
+}
+
+.orientation-container>.player-robot {
+    position: absolute;
+    margin-left: 450px;
+    top: 20.4%;
+    left: 50%;
+    z-index: 10;
+}
+
+.orientation-container>.player-robot>h3 {
+    line-height: 0.4px;
+    color: #da73ff;
+}

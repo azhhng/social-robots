@@ -1,0 +1,57 @@
+  /* ===== RobotUnion CSS ===== */
+
+  .union-container {
+      overflow: hidden;
+  }
+
+  .union-container>.slasher-robot {
+      position: absolute;
+      margin-left: -580px;
+      top: 25.5%;
+      left: 50%;
+  }
+
+
+  .union-container>.bear-robot {
+      position: absolute;
+      margin-left: -800px;
+      top: 24%;
+      left: 50%;
+  }
+
+  .union-container>.factory-robot {
+      position: absolute;
+      margin-left: 420px;
+      top: 26%;
+      left: 50%;
+  }
+
+  .union-container>.factory-robot>h3 {
+      line-height: 8px;
+      color: #B0AA68;
+  }
+
+  .union-container>.player-robot {
+      position: absolute;
+      margin-left: 480px;
+      top: 20%;
+      left: 60%;
+  }
+
+  .union-container>.player-robot>h3 {
+      line-height: 0.4px;
+      color: #da73ff;
+  }
+
+  .union-container>.dialogue-box>button {
+      color: #ffffff;
+      background-color: #1b489c;
+      box-shadow: 0 2px 2px 2px rgba(0, 0, 0, 0.151);
+      margin-left: 10px;
+      float: right;
+      height: 30px;
+  }
+
+  .union-container>.dialogue-box>button:hover {
+      background-color: #17356e;
+  }

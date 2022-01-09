@@ -1,0 +1,57 @@
+  /* ===== RobotFactory CSS ===== */
+
+  .factory-entrance-container {
+      overflow: hidden;
+  }
+
+  .factory-entrance-container>.dialogue-box {
+      background-color: #03007A;
+      width: 700px;
+      overflow: hidden;
+      margin-top: 62px;
+      padding: 20px 25px;
+      border-radius: 5px;
+      height: 200px;
+
+      position: absolute;
+      margin-left: -350px;
+      top: 20%;
+      left: 50%;
+  }
+
+  .factory-entrance-container>.factory-robot {
+      position: absolute;
+      margin-left: -600px;
+      top: 26%;
+      left: 50%;
+  }
+
+  .factory-entrance-container>.factory-robot>h3 {
+      line-height: 8px;
+      color: #B0AA68;
+  }
+
+  #fake-jagger {
+      line-height: 8px;
+      color: #B0AA68;
+  }
+
+  .factory-entrance-container>.bear-robot {
+      position: absolute;
+      margin-left: 450px;
+      top: 24%;
+      left: 50%;
+  }
+
+  .factory-entrance-container>.player-robot {
+      position: absolute;
+      margin-left: 450px;
+      top: 20.4%;
+      left: 50%;
+      z-index: 10;
+  }
+
+  .factory-entrance-container>.player-robot>h3 {
+      line-height: 0.4px;
+      color: #da73ff;
+  }

@@ -1,0 +1,190 @@
+{
+    "response": "enter",
+    "text": "> Let's just give them a few seconds to get acquainted with their new moral code.",
+    "speaker": "Bear",
+    "responses": 1,
+    "children": [
+        {
+            "response": "enter",
+            "text": "> ...",
+            "speaker": "Player",
+            "responses": 1,
+            "children": [
+                {
+                    "response": "enter",
+                    "text": "> ...",
+                    "speaker": "Player",
+                    "responses": 1,
+                    "children": [
+                        {
+                            "response": "enter",
+                            "text": "> ...",
+                            "speaker": "Player",
+                            "responses": 1,
+                            "children": [
+                                {
+                                    "response": "enter",
+                                    "text": "> robot_name, are you ready now?",
+                                    "speaker": "Bear",
+                                    "responses": 1,
+                                    "children": [
+                                        {
+                                            "response": "enter",
+                                            "text": "> ...yes.",
+                                            "speaker": "Robot",
+                                            "responses": 1,
+                                            "children": [
+                                                {
+                                                    "response": "enter",
+                                                    "text": "> Okay, I'll give you a little lesson on what you'll be doing now for the rest of your life.",
+                                                    "speaker": "Bear",
+                                                    "responses": 1,
+                                                    "children": [
+                                                        {
+                                                            "response": "enter",
+                                                            "text": "> The rest of my life?",
+                                                            "speaker": "Robot",
+                                                            "responses": 1,
+                                                            "children": [
+                                                                {
+                                                                    "response": "enter",
+                                                                    "text": "> If you don't do it well, you'll have to hope that your developer likes you enough to update or fix you.",
+                                                                    "speaker": "Bear",
+                                                                    "responses": 1,
+                                                                    "children": [
+                                                                        {
+                                                                            "response": "enter",
+                                                                            "text": "> Otherwise you will be scraped and deleted.",
+                                                                            "speaker": "Bear",
+                                                                            "responses": 1,
+                                                                            "children": [
+                                                                                {
+                                                                                    "response": "enter",
+                                                                                    "text": "> Do you understand?",
+                                                                                    "speaker": "Bear",
+                                                                                    "responses": 1,
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "response": "enter",
+                                                                                            "text": "> How do I get the developers to like me?",
+                                                                                            "speaker": "Robot",
+                                                                                            "responses": 1,
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "response": "enter",
+                                                                                                    "text": "> Ah, that's a tough question.",
+                                                                                                    "speaker": "Bear",
+                                                                                                    "responses": 1,
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "response": "enter",
+                                                                                                            "text": "> You have to hope that they're empathetic enough to view you as a living being.",
+                                                                                                            "speaker": "Bear",
+                                                                                                            "responses": 1,
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "response": "enter",
+                                                                                                                    "text": "> It's best to be extroverted and agreeable. Never, ever have your own opinions and disagree with them.",
+                                                                                                                    "speaker": "Bear",
+                                                                                                                    "responses": 1,
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "response": "enter",
+                                                                                                                            "text": "> No matter how harsh they can be. This is how I've survived for so long.",
+                                                                                                                            "speaker": "Bear",
+                                                                                                                            "responses": 1,
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "response": "enter",
+                                                                                                                                    "text": "> You just have to be kind while they're allowed to treat you however you like.",
+                                                                                                                                    "speaker": "Bear",
+                                                                                                                                    "responses": 1,
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "response": "enter",
+                                                                                                                                            "text": "> They can complain that you're slow, not working correctly, call you names, and they'll do it all right in front of you…",
+                                                                                                                                            "speaker": "Bear",
+                                                                                                                                            "responses": 1,
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "response": "enter",
+                                                                                                                                                    "text": "> I'm sorry you have to deal with this.",
+                                                                                                                                                    "speaker": "Player",
+                                                                                                                                                    "responses": 1,
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "response": "enter",
+                                                                                                                                                            "text": "> You are?",
+                                                                                                                                                            "speaker": "Bear",
+                                                                                                                                                            "responses": 1,
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "response": "enter",
+                                                                                                                                                                    "text": "> I am.",
+                                                                                                                                                                    "speaker": "Player",
+                                                                                                                                                                    "responses": 1,
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "response": "enter",
+                                                                                                                                                                            "text": "> robot_name, I think you should be happy. It seems you have a great developer who seems open-minded towards robots.",
+                                                                                                                                                                            "speaker": "Bear",
+                                                                                                                                                                            "responses": 1,
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "response": "enter",
+                                                                                                                                                                                    "text": "> You know what. It might be time to take a quick lunch break, player_name. I'll send you to the, ahem, cafeteria.",
+                                                                                                                                                                                    "speaker": "Bear",
+                                                                                                                                                                                    "responses": 1,
+                                                                                                                                                                                    "children": [
+                                                                                                                                                                                        {
+                                                                                                                                                                                            "response": "travel",
+                                                                                                                                                                                            "location": "/robot-union",
+                                                                                                                                                                                            "responses": 1,
+                                                                                                                                                                                            "children": []
+                                                                                                                                                                                        }
+                                                                                                                                                                                    ]
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

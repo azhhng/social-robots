@@ -1,0 +1,111 @@
+{
+    "response": null,
+    "text": "> Hey friend, back so soon? Did you miss me?",
+    "speaker": "Jagger",
+    "responses": 1,
+    "children": [
+        {
+            "response": "enter",
+            "text": "> Is Jagger around?",
+            "speaker": "Player",
+            "responses": 1,
+            "children": [
+                {
+                    "response": "enter",
+                    "text": "> You must have short term memory loss. I am Jagger!",
+                    "speaker": "Jagger",
+                    "responses": 1,
+                    "children": [
+                        {
+                            "response": "enter",
+                            "text": "> Oh...you've changed.",
+                            "speaker": "Player",
+                            "responses": 1,
+                            "children": [
+                                {
+                                    "response": "enter",
+                                    "text": "> I don't know what you're talking about, player_name.",
+                                    "speaker": "Jagger",
+                                    "responses": 1,
+                                    "children": [
+                                        {
+                                            "response": "enter",
+                                            "text": "> Okay well, I'm supposed to get my robot named.",
+                                            "speaker": "Player",
+                                            "responses": 1,
+                                            "children": [
+                                                {
+                                                    "response": "enter",
+                                                    "text": "> Oh okay, let me know what you want your robot to be named.",
+                                                    "speaker": "Jagger",
+                                                    "responses": 1,
+                                                    "children": [
+                                                        {
+                                                            "response": "input",
+                                                            "variable_name": "robot_name",
+                                                            "text": "> All done! It's a pretty quick process so I understand why Jagger missed that.",
+                                                            "speaker": "Jagger",
+                                                            "responses": 1,
+                                                            "children": [
+                                                                {
+                                                                    "response": "enter",
+                                                                    "text": "> Oh, I mean me!",
+                                                                    "speaker": "Jagger",
+                                                                    "responses": 1,
+                                                                    "children": [
+                                                                        {
+                                                                            "response": "enter",
+                                                                            "text": "> I mean-I mean I can understand why I missed that.",
+                                                                            "speaker": "Jagger",
+                                                                            "responses": 1,
+                                                                            "children": [
+                                                                                {
+                                                                                    "response": "enter",
+                                                                                    "text": "> Haha. Hahaha! Silly ol' me. Always...uh...forgetting things!",
+                                                                                    "speaker": "Jagger",
+                                                                                    "responses": 1,
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "response": "enter",
+                                                                                            "text": "> fake_jagger.delete()",
+                                                                                            "speaker": "Developer",
+                                                                                            "responses": 1,
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "response": "enter",
+                                                                                                    "text": "> sendToBear(player_name)",
+                                                                                                    "speaker": "Developer",
+                                                                                                    "responses": 1,
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "response": "travel",
+                                                                                                            "location": "/orientation",
+                                                                                                            "responses": 1,
+                                                                                                            "children": []
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

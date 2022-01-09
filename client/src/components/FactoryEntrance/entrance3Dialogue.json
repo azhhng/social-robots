@@ -1,0 +1,38 @@
+{
+    "response": null,
+    "text": "> Wait...",
+    "speaker": "Jagger",
+    "responses": 1,
+    "children": [
+        {
+            "response": "enter",
+            "text": "> Before you go, I just have to say something.",
+            "speaker": "Jagger",
+            "responses": 1,
+            "children": [
+                {
+                    "response": "enter",
+                    "text": "> I just hope you take care of your robot and treat them with respect.",
+                    "speaker": "Jagger",
+                    "responses": 1,
+                    "children": [
+                        {
+                            "response": "enter",
+                            "text": "> All the interns I've seen all turned out the same...I hope you can be different.",
+                            "speaker": "Jagger",
+                            "responses": 1,
+                            "children": [
+                                {
+                                    "response": "travel",
+                                    "location": "/orientation",
+                                    "responses": 1,
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

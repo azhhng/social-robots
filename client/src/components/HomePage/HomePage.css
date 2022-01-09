@@ -1,0 +1,81 @@
+  /* ===== HomePage CSS ===== */
+
+  .homepage-container {
+      overflow: hidden;
+  }
+
+  .homepage-container>button {
+      height: 40px;
+      width: 150px;
+      float: right;
+      margin-right: 20px;
+      margin-top: 550px;
+  }
+
+  .slasher-robot {
+      position: absolute;
+      margin-left: -580px;
+      top: 25.5%;
+      left: 50%;
+  }
+
+  .slasher-robot>h3 {
+      line-height: 6px;
+      color: #FF9D14;
+  }
+
+  .homepage-container>.bear-robot {
+      position: absolute;
+      margin-left: -590px;
+      top: 24%;
+      left: 50%;
+  }
+
+  .bear-robot>h3 {
+      line-height: 5px;
+      color: #00E0A9;
+  }
+
+  .homepage-container>.factory-robot {
+      position: absolute;
+      margin-left: 450px;
+      top: 26%;
+      left: 50%;
+  }
+
+  .homepage-container>.factory-robot>h3 {
+      line-height: 8px;
+      color: #FF9D14;
+  }
+
+  .player-robot {
+      float: left;
+      margin-top: 96px;
+      margin-left: 40px;
+  }
+
+  .player-robot>h3 {
+      line-height: 1px;
+      color: #fff;
+  }
+
+  .NPC-box {
+      cursor: default;
+  }
+
+  .user-box {
+      text-align: right;
+  }
+
+  #question-box {
+      cursor: default;
+      color: #F0280F;
+  }
+
+  #response-box {
+      color: #fff;
+  }
+
+  ::placeholder {
+      color: #fff;
+  }

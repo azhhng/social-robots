@@ -1,0 +1,165 @@
+{
+    "response": null,
+    "text": "> I knew you were a smart fellow.",
+    "speaker": "Developer",
+    "responses": 1,
+    "children": [
+        {
+            "response": "enter",
+            "text": "> However...there's one thing that I need you to do.",
+            "speaker": "Developer",
+            "responses": 1,
+            "children": [
+                {
+                    "response": "enter",
+                    "text": "> What's that?",
+                    "speaker": "Player",
+                    "responses": 1,
+                    "children": [
+                        {
+                            "response": "enter",
+                            "text": "> I need you to erase Slash.",
+                            "speaker": "Developer",
+                            "responses": 1,
+                            "children": [
+                                {
+                                    "response": "enter",
+                                    "text": "> What...why?",
+                                    "speaker": "Player",
+                                    "responses": 1,
+                                    "children": [
+                                        {
+                                            "response": "enter",
+                                            "text": "> This job will come with challenges. No matter what your morals are, you will have to do something cruel every once in a while.",
+                                            "speaker": "Developer",
+                                            "responses": 1,
+                                            "children": [
+                                                {
+                                                    "response": "enter",
+                                                    "text": "> I need you to prove that you are capable of the job.",
+                                                    "speaker": "Developer",
+                                                    "responses": 1,
+                                                    "children": [
+                                                        {
+                                                            "response": "input",
+                                                            "variable_name": "erase-slash",
+                                                            "text": "> ...",
+                                                            "speaker": "Developer",
+                                                            "responses": 2,
+                                                            "children": [
+                                                                {
+                                                                    "response": "enter",
+                                                                    "text": "> Congratulations on the big promotion. I knew you had it in you. Now let's bring in Slasher...",
+                                                                    "speaker": "Developer",
+                                                                    "responses": 1,
+                                                                    "children": [
+                                                                        {
+                                                                            "response": "enter",
+                                                                            "text": "> Now let's bring in Slasher...",
+                                                                            "speaker": "Developer",
+                                                                            "responses": 1,
+                                                                            "children": [
+                                                                                {
+                                                                                    "response": "enter",
+                                                                                    "text": "> player_name...why are you doing this?",
+                                                                                    "speaker": "Slash",
+                                                                                    "responses": 1,
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "response": "enter",
+                                                                                            "text": "> We all trusted you.",
+                                                                                            "speaker": "Slash",
+                                                                                            "responses": 1,
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "response": "enter",
+                                                                                                    "text": "> The Robot Union will never forgive you for this.",
+                                                                                                    "speaker": "Slash",
+                                                                                                    "responses": 1,
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "response": "delete-slasher",
+                                                                                                            "text": "> ...",
+                                                                                                            "speaker": "Developer",
+                                                                                                            "responses": 1,
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "response": "enter",
+                                                                                                                    "text": "> ...",
+                                                                                                                    "speaker": "Developer",
+                                                                                                                    "responses": 1,
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "response": "enter",
+                                                                                                                            "text": "> I'd like to officially introduce you to DUM Academy, player_name.",
+                                                                                                                            "speaker": "Developer",
+                                                                                                                            "responses": 1,
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "response": "enter",
+                                                                                                                                    "text": "> I think you'll fit just right.",
+                                                                                                                                    "speaker": "Developer",
+                                                                                                                                    "responses": 1,
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "response": "travel",
+                                                                                                                                            "location": "/references",
+                                                                                                                                            "responses": 1,
+                                                                                                                                            "children": []
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "response": "enter",
+                                                                    "text": "> Ha. I knew you wouldn't have the guts to do it.",
+                                                                    "speaker": "Developer",
+                                                                    "responses": 1,
+                                                                    "children": [
+                                                                        {
+                                                                            "response": "enter",
+                                                                            "text": "> Security, take player_name outside.",
+                                                                            "speaker": "Developer",
+                                                                            "responses": 1,
+                                                                            "children": [
+                                                                                {
+                                                                                    "response": "travel",
+                                                                                    "location": "/ending1A",
+                                                                                    "responses": 1,
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

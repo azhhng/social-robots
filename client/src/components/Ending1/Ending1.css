@@ -1,0 +1,36 @@
+.ending1-container>.slasher-robot {
+    position: absolute;
+    margin-left: 440px;
+    top: 25.5%;
+    left: 50%;
+}
+
+.ending1-container>.slasher-robot>h3 {
+    line-height: 6px;
+    color: #FF9D14;
+}
+
+.ending1-container>.developer-npc {
+    position: absolute;
+    margin-left: 270px;
+    top: 16%;
+    left: 0%;
+}
+
+.ending1-container>.developer-npc>h3 {
+    line-height: 2px;
+    color: #F0280F;
+}
+
+.ending1-container>.dialogue-box>button {
+    color: #ffffff;
+    background-color: #1b489c;
+    box-shadow: 0 2px 2px 2px rgba(0, 0, 0, 0.151);
+    margin-left: 10px;
+    float: right;
+    height: 30px;
+}
+
+.ending1-container>.dialogue-box>button:hover {
+    background-color: #17356e;
+}

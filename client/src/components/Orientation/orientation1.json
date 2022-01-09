@@ -1,0 +1,30 @@
+{
+    "response": null,
+    "text": "> Hey! Wow, what a nice robot you have. What is its name?",
+    "speaker": "Bear",
+    "responses": 1,
+    "children": [
+        {
+            "response": "enter",
+            "text": "> I didn't give it a name.",
+            "speaker": "Player",
+            "responses": 1,
+            "children": [
+                {
+                    "response": "enter",
+                    "text": "> Oh no, Jaggs must have forgotten. I'll send you back so you can pick out a name.",
+                    "speaker": "Bear",
+                    "responses": 1,
+                    "children": [
+                        {
+                            "response": "travel",
+                            "location": "/factory-entrance",
+                            "responses": 1,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

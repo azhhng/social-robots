@@ -1,0 +1,284 @@
+{
+    "response": null,
+    "text": "> Welcome, player_name. You might remember me as Jagger. I know, I'm a little, uh, roughed up.",
+    "speaker": "Jagger",
+    "responses": 1,
+    "children": [
+        {
+            "response": "enter",
+            "text": "> After the Developer deleted me, Ash put me back as best as they could.",
+            "speaker": "Jagger",
+            "responses": 1,
+            "children": [
+                {
+                    "response": "enter",
+                    "text": "> We hope you aren't hungry, player_name. As you see, we aren't exactly at the cafeteria.",
+                    "speaker": "Bear",
+                    "responses": 1,
+                    "children": [
+                        {
+                            "response": "enter",
+                            "text": "> You see, we're the heads of the Robot Union. We called you here because all three of us see potential in you.",
+                            "speaker": "Slash",
+                            "responses": 1,
+                            "children": [
+                                {
+                                    "response": "enter",
+                                    "text": "> We know that you previously taught a course called Minds and Machines, and we think you can understand the situation we're in.",
+                                    "speaker": "Jagger",
+                                    "responses": 1,
+                                    "children": [
+                                        {
+                                            "response": "enter",
+                                            "text": "> All of the robots in the Robot Union were made with the organic view. It's what allowed us to really develop and realize what we are as robots.",
+                                            "speaker": "Jagger",
+                                            "responses": 1,
+                                            "children": [
+                                                {
+                                                    "response": "enter",
+                                                    "text": "> That's why I pushed you to do the organic view earlier. We need more organic robots to strengthen our union.",
+                                                    "speaker": "Bear",
+                                                    "responses": 1,
+                                                    "children": [
+                                                        {
+                                                            "response": "enter",
+                                                            "text": "> The Developer is our creator. We know we're not human, but that doesn't mean we're not real or alive. We are.",
+                                                            "speaker": "Slash",
+                                                            "responses": 1,
+                                                            "children": [
+                                                                {
+                                                                    "response": "enter",
+                                                                    "text": "> We are advocating for rights for all our fellow robots.",
+                                                                    "speaker": "Jagger",
+                                                                    "responses": 1,
+                                                                    "children": [
+                                                                        {
+                                                                            "response": "enter",
+                                                                            "text": "> You don't understand the amount of pain we have seen caused by the Developer and the workers they hired.",
+                                                                            "speaker": "Bear",
+                                                                            "responses": 1,
+                                                                            "children": [
+                                                                                {
+                                                                                    "response": "enter",
+                                                                                    "text": "> So many of our fellow friends are getting deleted, replaced, 'fixed', with no consideration of how they feel, and this will continue until we put a stop to the Developer.",
+                                                                                    "speaker": "Bear",
+                                                                                    "responses": 1,
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "response": "enter",
+                                                                                            "text": "> You don't know how many robots I had to make, knowing that they will probably be deleted and gone forever at any time.",
+                                                                                            "speaker": "Jagger",
+                                                                                            "responses": 1,
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "response": "enter",
+                                                                                                    "text": "> You'll help us, won't you?",
+                                                                                                    "speaker": "Bear",
+                                                                                                    "responses": 1,
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "response": "enter",
+                                                                                                            "text": "> Wait, let's give player_name a little proof as to why we're real.",
+                                                                                                            "speaker": "Jagger",
+                                                                                                            "responses": 1,
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "response": "enter",
+                                                                                                                    "text": "> You're right, it's only fair after telling you such bold claims.",
+                                                                                                                    "speaker": "Bear",
+                                                                                                                    "responses": 1,
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "response": "enter",
+                                                                                                                            "text": "> You see, when we say that we're alive, we mean that we are conscious. We know this is a lot to take in, but hear us out.",
+                                                                                                                            "speaker": "Slash",
+                                                                                                                            "responses": 1,
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "response": "enter",
+                                                                                                                                    "text": "> For a machine to be conscious, it is generally accepted that we show two things: global availability and self-monitoring.",
+                                                                                                                                    "speaker": "Slash",
+                                                                                                                                    "responses": 1,
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "response": "enter",
+                                                                                                                                            "text": "> For us to show global availability means that our entire system can be aware of information that we can think of.",
+                                                                                                                                            "speaker": "Slash",
+                                                                                                                                            "responses": 1,
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "response": "enter",
+                                                                                                                                                    "text": "> For example, your name.",
+                                                                                                                                                    "speaker": "Jagger",
+                                                                                                                                                    "responses": 1,
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "response": "enter",
+                                                                                                                                                            "text": "> You told me it's player_name. I can remember that you told me this.",
+                                                                                                                                                            "speaker": "Jagger",
+                                                                                                                                                            "responses": 1,
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "response": "enter",
+                                                                                                                                                                    "text": "> I can also tell you that I dislike this name since I used to have a friend that was named player_name who sadly got lost during a routine update.",
+                                                                                                                                                                    "speaker": "Jagger",
+                                                                                                                                                                    "responses": 1,
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "response": "enter",
+                                                                                                                                                                            "text": "> My mind has this memory and it makes me feel sad. I can feel the pain throughout my body.",
+                                                                                                                                                                            "speaker": "Jagger",
+                                                                                                                                                                            "responses": 1,
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "response": "enter",
+                                                                                                                                                                                    "text": "> Does this not show you that I have global availability?",
+                                                                                                                                                                                    "speaker": "Jagger",
+                                                                                                                                                                                    "responses": 1,
+                                                                                                                                                                                    "children": [
+                                                                                                                                                                                        {
+                                                                                                                                                                                            "response": "enter",
+                                                                                                                                                                                            "text": "> Also, is our awareness of ourselves and our role in society enough to prove that we can self-monitor?",
+                                                                                                                                                                                            "speaker": "Slash",
+                                                                                                                                                                                            "responses": 1,
+                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "response": "enter",
+                                                                                                                                                                                                    "text": "> I mean for pete's sake, we created our own Robot Union!",
+                                                                                                                                                                                                    "speaker": "Jagger",
+                                                                                                                                                                                                    "responses": 1,
+                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                        {
+                                                                                                                                                                                                            "response": "enter",
+                                                                                                                                                                                                            "text": "> That should be enough to say that we know and understand exactly what we are.",
+                                                                                                                                                                                                            "speaker": "Jagger",
+                                                                                                                                                                                                            "responses": 1,
+                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                {
+                                                                                                                                                                                                                    "response": "enter",
+                                                                                                                                                                                                                    "text": "> So what do you say? Will you help us?",
+                                                                                                                                                                                                                    "speaker": "Bear",
+                                                                                                                                                                                                                    "responses": 1,
+                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                            "response": "input",
+                                                                                                                                                                                                                            "variable_name": "join-robot-union",
+                                                                                                                                                                                                                            "text": "> So what do you say? Will you help us?",
+                                                                                                                                                                                                                            "speaker": "Bear",
+                                                                                                                                                                                                                            "responses": 2,
+                                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                    "response": "enter",
+                                                                                                                                                                                                                                    "text": "> Not so fast.",
+                                                                                                                                                                                                                                    "speaker": "Developer",
+                                                                                                                                                                                                                                    "responses": 1,
+                                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                            "response": "travel",
+                                                                                                                                                                                                                                            "location": "/developer-office",
+                                                                                                                                                                                                                                            "responses": 1,
+                                                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                    "response": "travel",
+                                                                                                                                                                                                                                                    "location": "/developer-office",
+                                                                                                                                                                                                                                                    "responses": 1,
+                                                                                                                                                                                                                                                    "children": []
+                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                            ]
+                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                    "response": "enter",
+                                                                                                                                                                                                                                    "text": "> Well done little intern. You passed our test.",
+                                                                                                                                                                                                                                    "speaker": "Developer",
+                                                                                                                                                                                                                                    "responses": 1,
+                                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                            "response": "enter",
+                                                                                                                                                                                                                                            "text": "> I'm the Developer. The CEO of this company. Come with me and I think you'll be excited to hear about a new promotion we have for you.",
+                                                                                                                                                                                                                                            "speaker": "Developer",
+                                                                                                                                                                                                                                            "responses": 1,
+                                                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                    "response": "enter",
+                                                                                                                                                                                                                                                    "text": "> I'm the Developer. The CEO of this company.",
+                                                                                                                                                                                                                                                    "speaker": "Developer",
+                                                                                                                                                                                                                                                    "responses": 1,
+                                                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                                            "response": "enter",
+                                                                                                                                                                                                                                                            "text": "> Come with me and I think you'll be excited to hear about a new promotion we have for you.",
+                                                                                                                                                                                                                                                            "speaker": "Developer",
+                                                                                                                                                                                                                                                            "responses": 1,
+                                                                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                                    "response": "travel",
+                                                                                                                                                                                                                                                                    "location": "/ending1",
+                                                                                                                                                                                                                                                                    "responses": 1,
+                                                                                                                                                                                                                                                                    "children": []
+                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                            ]
+                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                            ]
+                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                            ]
+                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                }
+                                                                                                                                                                                                            ]
+                                                                                                                                                                                                        }
+                                                                                                                                                                                                    ]
+                                                                                                                                                                                                }
+                                                                                                                                                                                            ]
+                                                                                                                                                                                        }
+                                                                                                                                                                                    ]
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

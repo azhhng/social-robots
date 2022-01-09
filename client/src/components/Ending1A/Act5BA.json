@@ -1,0 +1,46 @@
+{
+    "response": null,
+    "text": "> I just came to say thank you for not erasing Slash.",
+    "speaker": "Bear",
+    "responses": 1,
+    "children": [
+        {
+            "response": "enter",
+            "text": "> But don't expect us to ask you for any more help.",
+            "speaker": "Bear",
+            "responses": 1,
+            "children": [
+                {
+                    "response": "enter",
+                    "text": "> You betrayed us, player_name.",
+                    "speaker": "Bear",
+                    "responses": 1,
+                    "children": [
+                        {
+                            "response": "enter",
+                            "text": "> You might have saved Slash's life, but we won't forget the decision you made.",
+                            "speaker": "Bear",
+                            "responses": 1,
+                            "children": [
+                                {
+                                    "response": "enter",
+                                    "text": "> I hope you can live with yourself.",
+                                    "speaker": "Bear",
+                                    "responses": 1,
+                                    "children": [
+                                        {
+                                            "response": "travel",
+                                            "location": "/references",
+                                            "responses": 1,
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

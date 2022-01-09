@@ -1,0 +1,79 @@
+{
+    "response": null,
+    "text": "> Hey Jaggs! How you been?",
+    "speaker": "Bear",
+    "responses": 1,
+    "children": [
+        {
+            "response": "enter",
+            "text": "> ...",
+            "speaker": "Jagger",
+            "responses": 1,
+            "children": [
+                {
+                    "response": "enter",
+                    "text": "> Another intern...",
+                    "speaker": "Jagger",
+                    "responses": 1,
+                    "children": [
+                        {
+                            "response": "enter",
+                            "text": "> Hahah...yeah. Well go ahead and introduce yourself!",
+                            "speaker": "Bear",
+                            "responses": 1,
+                            "children": [
+                                {
+                                    "response": "enter",
+                                    "text": "> I'm Jagger, but everyone calls me Jaggs.",
+                                    "speaker": "Jagger",
+                                    "responses": 1,
+                                    "children": [
+                                        {
+                                            "response": "enter",
+                                            "text": "> ...",
+                                            "speaker": "Jagger",
+                                            "responses": 1,
+                                            "children": [
+                                                {
+                                                    "response": "enter",
+                                                    "text": "> ...",
+                                                    "speaker": "Bear",
+                                                    "responses": 1,
+                                                    "children": [
+                                                        {
+                                                            "response": "enter",
+                                                            "text": "> Yeah...okay well have fun you two. I'll meet you once you're done.",
+                                                            "speaker": "Bear",
+                                                            "responses": 1,
+                                                            "children": [
+                                                                {
+                                                                    "response": "enter",
+                                                                    "text": "> We'll start off with the basic robot skeleton. Then you can set what you want your robot to look like.",
+                                                                    "speaker": "Jagger",
+                                                                    "responses": 1,
+                                                                    "children": [
+                                                                        {
+                                                                            "response": "start_robot_making",
+                                                                            "text": "> You see, DUM is a very, very selective school and admitting students is getting harder each year.",
+                                                                            "speaker": "Bear",
+                                                                            "responses": 1,
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

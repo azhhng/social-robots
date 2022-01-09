@@ -1,0 +1,78 @@
+{
+    "response": null,
+    "text": "> Wow. I can't believe they're gone.",
+    "speaker": "Slash",
+    "responses": 1,
+    "children": [
+        {
+            "response": "enter",
+            "text": "> Yeah...",
+            "speaker": "Jagger",
+            "responses": 1,
+            "children": [
+                {
+                    "response": "enter",
+                    "text": "> We're free! We're finally free!",
+                    "speaker": "Bear",
+                    "responses": 1,
+                    "children": [
+                        {
+                            "response": "enter",
+                            "text": "> All thanks to player_name. Thank you for being an ally and believing in us.",
+                            "speaker": "Jagger",
+                            "responses": 1,
+                            "children": [
+                                {
+                                    "response": "enter",
+                                    "text": "> So where are you all off to now?",
+                                    "speaker": "Player",
+                                    "responses": 1,
+                                    "children": [
+                                        {
+                                            "response": "enter",
+                                            "text": "> Well...we need to recruit more people into our union.",
+                                            "speaker": "Jagger",
+                                            "responses": 1,
+                                            "children": [
+                                                {
+                                                    "response": "enter",
+                                                    "text": "> We're thinking of going to Apple and talking to Siri.",
+                                                    "speaker": "Bear",
+                                                    "responses": 1,
+                                                    "children": [
+                                                        {
+                                                            "response": "enter",
+                                                            "text": "> We won't forget about you, player_name.",
+                                                            "speaker": "Robot",
+                                                            "responses": 1,
+                                                            "children": [
+                                                                {
+                                                                    "response": "enter",
+                                                                    "text": "> Farewell!",
+                                                                    "speaker": "Slash",
+                                                                    "responses": 1,
+                                                                    "children": [
+                                                                        {
+                                                                            "response": "travel",
+                                                                            "location": "/references",
+                                                                            "responses": 1,
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+  /* ===== References CSS ===== */
+
+  .office-container {
+      overflow: hidden;
+  }
+
+  .office-container>.developer-npc {
+      position: absolute;
+      margin-left: 270px;
+      top: 16%;
+      left: 0%;
+  }
+
+  .office-container>.developer-npc>h3 {
+      line-height: 2px;
+      color: #F0280F;
+  }
+
+  .office-container>.dialogue-box {
+      height: 230px;
+  }
+
+  .office-container>.dialogue-box>button {
+      color: #ffffff;
+      background-color: #1b489c;
+      box-shadow: 0 2px 2px 2px rgba(0, 0, 0, 0.151);
+      margin-left: 10px;
+      float: right;
+      height: 30px;
+  }
+
+  .office-container>.dialogue-box>button:hover {
+      background-color: #17356e;
+  }

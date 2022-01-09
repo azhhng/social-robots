@@ -1,0 +1,56 @@
+  /* ===== About CSS ===== */
+
+  .about-container {
+      overflow: hidden;
+  }
+
+  .about-robot {
+      margin-left: 370px;
+      margin-top: 50px;
+      float: left;
+      margin-right: 60px;
+  }
+
+  .about-robot>h3 {
+      line-height: 6px;
+  }
+
+  .about-information {
+      background-color: #D16B60;
+      width: 700px;
+      overflow: hidden;
+      margin-top: 62px;
+      padding: 0px 25px;
+      border-radius: 5px;
+      line-height: 30px;
+  }
+
+  .tech-information {
+      background-color: #1b9b65;
+      width: 700px;
+      overflow: hidden;
+      margin-top: 22px;
+      padding: 0px 25px;
+      border-radius: 5px;
+      line-height: 30px;
+  }
+
+  .class-information {
+      background-color: #D1924E;
+      width: 700px;
+      overflow: hidden;
+      margin-top: 22px;
+      padding: 0px 25px;
+      border-radius: 5px;
+      line-height: 30px;
+  }
+
+  .email-information {
+      background-color: #a84593;
+      width: 700px;
+      overflow: hidden;
+      margin-top: 22px;
+      padding: 0px 25px;
+      border-radius: 5px;
+      line-height: 30px;
+  }

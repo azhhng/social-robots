@@ -1,0 +1,145 @@
+{
+    "response": null,
+    "text": "> Bear, something really weird happened back there.",
+    "speaker": "Player",
+    "responses": 1,
+    "children": [
+        {
+            "response": "enter",
+            "text": "> What's that, player_name?",
+            "speaker": "Bear",
+            "responses": 1,
+            "children": [
+                {
+                    "response": "enter",
+                    "text": "> I think Jagger got replaced with someone else. Then when that robot accidentally told me about it, someone deleted them.",
+                    "speaker": "Player",
+                    "responses": 1,
+                    "children": [
+                        {
+                            "response": "enter",
+                            "text": "> Listen to me, player_name. It's best to pretend this never happened. You don't want to upset them.",
+                            "speaker": "Bear",
+                            "responses": 1,
+                            "children": [
+                                {
+                                    "response": "enter",
+                                    "text": "> Upset who?",
+                                    "speaker": "Player",
+                                    "responses": 1,
+                                    "children": [
+                                        {
+                                            "response": "letter-decoration",
+                                            "text": "> THE best thing for us to Do now is gEt you and your VEry LovEly robot Paired up and lEaRning!",
+                                            "speaker": "Bear",
+                                            "responses": 1,
+                                            "children": [
+                                                {
+                                                    "response": "enter",
+                                                    "text": "> Okay…",
+                                                    "speaker": "Player",
+                                                    "responses": 1,
+                                                    "children": [
+                                                        {
+                                                            "response": "enter",
+                                                            "variable_name": "robot_name",
+                                                            "text": "> So first things first, we have to develop robot_name a moral code.",
+                                                            "speaker": "Bear",
+                                                            "responses": 1,
+                                                            "children": [
+                                                                {
+                                                                    "response": "enter",
+                                                                    "text": "> Us robots are social robots, meaning that we interact with other humans. As such, we are given ethical and moral codes.",
+                                                                    "speaker": "Bear",
+                                                                    "responses": 1,
+                                                                    "children": [
+                                                                        {
+                                                                            "response": "enter",
+                                                                            "text": "> We're still figuring out the details of how to do that best, but a big decision you'll have to make is whether you want robot_name to follow the celestial view or the organic view.",
+                                                                            "speaker": "Bear",
+                                                                            "responses": 1,
+                                                                            "children": [
+                                                                                {
+                                                                                    "response": "enter",
+                                                                                    "text": "> The celestial view of morality is that somewhere out there, there is an objective truth to what is right and wrong.",
+                                                                                    "speaker": "Bear",
+                                                                                    "responses": 1,
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "response": "enter",
+                                                                                            "text": "> Everyone should have the same morals according to the celestial view, whether you're a human, robot or whatever else.",
+                                                                                            "speaker": "Bear",
+                                                                                            "responses": 1,
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "response": "enter",
+                                                                                                    "text": "> The organic view is more flexible and says that morality is based on the person's nature. So humans would have different morals than robots.",
+                                                                                                    "speaker": "Bear",
+                                                                                                    "responses": 1,
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "response": "enter",
+                                                                                                            "text": "> Don't you think organic is a bit more reasonable?",
+                                                                                                            "speaker": "Bear",
+                                                                                                            "responses": 1,
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "response": "enter",
+                                                                                                                    "text": "> I mean, can you really expect robots and humans to have the same morals?",
+                                                                                                                    "speaker": "Bear",
+                                                                                                                    "responses": 1,
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "response": "enter",
+                                                                                                                            "text": "> So what do you choose, celestial view or organic view?",
+                                                                                                                            "speaker": "Bear",
+                                                                                                                            "responses": 1,
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "response": "input",
+                                                                                                                                    "variable_name": "view_choice",
+                                                                                                                                    "text": "> Ah, so you've made your choice",
+                                                                                                                                    "speaker": "Bear",
+                                                                                                                                    "responses": 2,
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "response": "enter",
+                                                                                                                                            "text": "> You know what... turns out the celestial machine isn't working out today. We'll have to go with the organic view today.",
+                                                                                                                                            "speaker": "Bear",
+                                                                                                                                            "responses": 1,
+                                                                                                                                            "children": []
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
