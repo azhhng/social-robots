@@ -43,7 +43,7 @@ function About() {
                 <h4>We were made for the PHL342 class at the University of Toronto. We are supposed to show that robots should be given moral consideration.</h4>
             </div>
             <div className="email-information">
-                <h4>If you have any questions or concerns you may email Ming Zhang at mingg.zhang@mail.utoronto.ca.</h4>
+                <h4>If you have any questions or concerns you may email Ming (Alice) Zhang at mingg.zhang@mail.utoronto.ca.</h4>
             </div>
         </div>
     )
